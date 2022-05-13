@@ -3,3 +3,5 @@ matplotlib
 joblib
 pandas
 notebook
+seaborn
+seaborn
