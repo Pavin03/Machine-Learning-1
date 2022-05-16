@@ -5,3 +5,4 @@ pandas
 notebook
 seaborn
 seaborn
+sklearn

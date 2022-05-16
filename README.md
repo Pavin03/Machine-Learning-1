@@ -17,3 +17,7 @@ pip install -r requirements.txt
 git remort -v
 before using git push use git pull and git remote -v and git branch to avoid merge conflict
 git branch -M <pavin>    # to change branch name
+cp Untitled\ Folder/Linear\ Reg.ipynb .    #to change file location
+git commit -m "Notebook Updated"
+git push origin main
+git checkout 'unique-id'
